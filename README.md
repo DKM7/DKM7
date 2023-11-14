@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/DKM7/DKM7/assets/137850347/7305bc94-f658-4199-8aaa-3943df5731e0" width="180" height="180">
+<img src="https://github.com/DKM7/DKM7/assets/137850347/7305bc94-f658-4199-8aaa-3943df5731e0" width="200" height="180">
 
 
     
