@@ -1,14 +1,14 @@
-<div align="center">
-  <img src="https://your-image-url.com/data-analyst-avatar.png" alt="Kevin Mamucud" width="300"/>
-</div>
+![sticker](https://github.com/DKM7/DKM7/assets/137850347/7305bc94-f658-4199-8aaa-3943df5731e0)
 
-# Greetings, Data Enthusiasts! 👋
 
-I'm Kevin Mamucud, a passionate Data Analyst on a mission to distill complex data into meaningful insights. Step into my data-driven world on GitHub!
+
+# Welcome! and thanks for visitng! 👋
+
+I'm Kevin Mamucud, a passionate Data Analyst on a mission to simplify data into meaningful insights. Step into my data-driven world on GitHub!
 
 ## 📊 Technical Arsenal
 
-- **Languages:** SQL, Python, R
+- **Languages:** SQL, Python, Excel
 - **Data Tools:** Pandas, NumPy, Jupyter, Tableau
 - **Data Warehouses:** BigQuery, Snowflake
 - **Visualization Tools:** Matplotlib, Seaborn
