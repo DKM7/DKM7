@@ -1,7 +1,9 @@
-![sticker](https://github.com/DKM7/DKM7/assets/137850347/7305bc94-f658-4199-8aaa-3943df5731e0)
 
 
+<img src="https://github.com/DKM7/DKM7/assets/137850347/7305bc94-f658-4199-8aaa-3943df5731e0" width="180" height="180">
 
+
+    
 # Welcome! and thanks for visitng! 👋
 
 I'm Kevin Mamucud, a passionate Data Analyst on a mission to simplify data into meaningful insights. Step into my data-driven world on GitHub!
